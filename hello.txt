@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 hello
 this is great guy
 kabooter jaa jaa
+=======
+>>>>>>> parent of 8d25bcd (new version)
